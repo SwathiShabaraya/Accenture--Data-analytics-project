@@ -10,5 +10,5 @@ Monthly Posting Trends
 A line graph showing monthly activity trends, highlighting May as the peak engagement month.
 
 Top 5 Categories by Engagement
-A pie chart visualizing the share of engagement across animals, science, technology, fitness, and travel.
+A Column chart visualizing the share of engagement across animals, science, technology, fitness, and travel.
 ![Screenshot 2024-12-24 115316](https://github.com/user-attachments/assets/6d7faa00-a838-47e4-8ec3-8edb05ae5927)
